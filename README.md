@@ -1,4 +1,16 @@
-# Dara Frontend
+<p align="center">
+  <img src="./assets/dara-logo.png" alt="Dara Logo" width="180" />
+</p>
+
+<h1 align="center">Dara Frontend</h1>
+
+<p align="center">
+  A digital Ayo strategy game exploring African gaming culture, Stellar wallet identity, and future Soroban-powered gameplay.
+</p>
+
+---
+
+## Overview
 
 Dara is a digital Ayo strategy game project inspired by traditional African board gaming culture.
 
